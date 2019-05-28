@@ -13,5 +13,5 @@ here we used Z-Score Analysis to figure out the anomaly in the temperature data 
 Python(we will be using Python 3 here) pakacges required can be downloaded by writing the following commands in the terminal:
 - pip3 install boltiot
 <br/><br/>
-# The PDF file contains all details of my work.
+# The PDF file contains all details of my work.(Internshala_IoT_Training_Final_Project/Capstone project_for_Internshala_IoT_Training_Program.pdf)
 
