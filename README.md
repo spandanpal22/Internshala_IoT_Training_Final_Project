@@ -1,4 +1,4 @@
-# Internshala_IoT_Training_Final_Project
+# Internshala IoT Training-Final Project
 <br/><br/>
 Using this we can  predict the temperature and also detect any anomaly in the temperature of a 
 refrigerator or any other place using Machine Learning and Internet of Things
